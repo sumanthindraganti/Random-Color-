@@ -1,28 +1,26 @@
 # 🎨 Random Color Generator
 
-A simple and interactive web tool that generates a **random color** each time you click the button. Built using **HTML**, **CSS**, and **JavaScript**, this project displays the color's HEX code and updates the background in real-time.
+**Live Demo**: [https://random-color18.netlify.app/](https://random-color18.netlify.app/)
 
-## 🚀 Live Demo
-
-🔗 [](https://random-color18.netlify.app/)]
+A simple and interactive web application that generates a **random color** every time you click the button. Built using **HTML**, **CSS**, and **JavaScript**, this tool updates the display with the new color and shows its **HEX code** in real time.
 
 ## ✨ Features
 
 - 🎲 Generates a random HEX color on each click
-- 🎨 Displays the color visually (background or box)
-- 🔢 Shows the HEX code of the generated color
-- 📋 Easy copy-to-clipboard functionality (optional)
-- 🖥️ Responsive and minimal UI
+- 🎨 Live color preview in a box
+- 🔢 Displays the HEX code of the generated color
+- 🖥️ Clean, minimal, and responsive design
 
 ## 💻 Technologies Used
 
-- **HTML** – Structure of the page
-- **CSS** – Styling the UI
-- **JavaScript** – Core logic for generating and applying random colors
+- **HTML** – Page structure
+- **CSS** – Styling and layout
+- **JavaScript** – Logic for generating and applying colors
 
-## 🧠 How It Works
+## 🚀 How It Works
 
-1. Click the "Generate Color" button.
-2. A random HEX color is generated using JavaScript.
-3. The background or a preview box updates to reflect the color.
-4. The HEX code is displayed on screen.
+1. Click the **"Generate Color"** button.
+2. A random HEX color (e.g., `#A3E4D7`) is generated using JavaScript.
+3. The color preview box and background change instantly.
+4. The HEX code of the color is displayed on screen.
+
